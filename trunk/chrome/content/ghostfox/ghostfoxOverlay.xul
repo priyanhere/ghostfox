@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+
+<?xml-stylesheet
+        href="chrome://ghostfox/content/ghostfox.css"
+        type="text/css"?> 
+
+<overlay id="ghostfoxOverlay" 
+        xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+
+<script type="application/x-javascript" src="chrome://ghostfox/content/ghostfox.js" />
+
+<statusbar id="status-bar">
+    <statusbarpanel class="statusbarpanel-iconic"
+					id="statusbar-ghostify"
+					tooltiptext="Ghost"
+					onclick="wExecute('Ghost')	"
+					insertbefore="statusbar-updates"/>
+    <statusbarpanel class="statusbarpanel-iconic"
+					id="statusbar-buster"
+					tooltiptext="Ghostbust"
+					onclick="wExecute('Bust')	"
+					insertbefore="statusbar-updates"/>
+</statusbar> 
+
+</overlay>
