@@ -7,9 +7,9 @@ xmlns:em="http://www.mozilla.org/2004/em-rdf#">
 
 		<em:id>{BD383794-1BB4-4a67-BC47-EE35403776FB}</em:id>
 		<em:name>ghostfox</em:name>
-		<em:version>0.1.4.2</em:version>
+		<em:version>2.0</em:version>
 		<em:description>Stylises Firefox into Ghostzilla (The Invisible Browser) style.</em:description>
-		<em:creator>Balaganesh Damodaran - concex induxtre</em:creator>
+		<em:creator>Balaganesh Damodaran</em:creator>
 		<em:homepageURL>http://ghostfox.mozdev.org/</em:homepageURL>
 		<em:iconURL>chrome://ghostfox/content/icon.png</em:iconURL>
 	        <em:aboutURL>chrome://ghostfox/content/about.xul</em:aboutURL>	
