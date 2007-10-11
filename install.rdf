@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+
+	<Description about="urn:mozilla:install-manifest">
+
+		<em:id>{BD383794-1BB4-4a67-BC47-EE35403776FB}</em:id>
+		<em:name>ghostfox</em:name>
+		<em:version>0.1.4.2</em:version>
+		<em:description>Stylises Firefox into Ghostzilla (The Invisible Browser) style.</em:description>
+		<em:creator>Balaganesh Damodaran - concex induxtre</em:creator>
+		<em:homepageURL>http://ghostfox.mozdev.org/</em:homepageURL>
+		<em:iconURL>chrome://ghostfox/content/icon.png</em:iconURL>
+	        <em:aboutURL>chrome://ghostfox/content/about.xul</em:aboutURL>	
+		<em:file>
+			<Description about="urn:mozilla:extension:file:ghostfox.jar">
+				<em:package>content/ghostfox/</em:package>
+			</Description>
+		</em:file>
+
+	<em:targetApplication>
+	      <Description>
+        	<em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+	        <em:minVersion>1.0</em:minVersion>
+        	<em:maxVersion>2.0.0.*</em:maxVersion>
+	      </Description>
+	    </em:targetApplication>
+   
+	</Description>
+
+</RDF>

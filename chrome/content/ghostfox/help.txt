@@ -1,0 +1,74 @@
+############################################################################################
+
+					HELP
+			Ghostfox - A Mozilla Firefox Extension
+############################################################################################
+
+First The Functionality:
+
+What exactly does Ghostfox do???
+	Well nice question...
+
+	A few years ago, a browser by the name of Ghostzilla was released. This browser was nicknamed "The Invisible Browser"
+. The purpose of this browser as quoted from it's website is:
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+QUOTE(www.ghostfox.com)
+	 Ghostzilla is a Web browser like Firefox, but it shows up and disappears instantly, discreetly, blended with your
+ application -- any application -- so the Web pages look like part of it and not like the Web at all. 
+
+END QUOTE
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+	Unfortunately the ghostfox browser is total crap when it comes to user friendliness and Firefox is really great in 
+that section. Also I sorely missed my favorite firefox extensions...
+
+	So i decided to bring about the same functionality to firefox and hence this extension. For more information please 
+visit http://www.ghostzilla.com/
+
+How does it work???
+	Now, listen carefully. This is important.
+
+To initiate the plugin,click the small 'g' icon in the statusbar. Within ten seconds your browser window will resize.This
+ indicates that the extension has loaded.
+
+TO HIDE:
+	Just move the mouse out of the firefox window and Ghostfox automatically hides firefox.
+
+TO SHOW:
+	Touch the LEFT edge of the entire screen with your mouse cursor; then move it all the way across to touch the RIGHT 
+edge; then again move it all the way across to touch the LEFT edge of the screen. This is the signal for the browser, which
+ has been hidden but listening, to come back. 
+	
+Oh and btw, Ghostzilla will merge ur firefox window into any softwares window such that it appears to be a part of it. This
+ will save you from prying eyes.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+FEATURES TO BE ADDED
+
+* As of now if you have multiple firefox windows open only one of them will be hidden. I'm working on this.
+
+* Images are not hidden as in Ghostzilla. I'll add this soon.
+
+* Text are displayed in original sizes and colors. I'll fix this soon too.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+FEEDBACK:
+
+Do send your feedback to me at:
+		bg.play@gmail.com
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+THANX:
+
+Sweetfish for his FoxAmp application from which 99pc of code was copied for the frontend [i'm not too great with xul]. Backend was entirely my work though ;)
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+LAST UPDATE:
+
+Help File : 27/7/2006
+Ghostfox Extension : 27/7/2006
+
+
+ENDOFFILE

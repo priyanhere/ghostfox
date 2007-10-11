@@ -1,0 +1,42 @@
+/* ::::: ghostfox button normal ::::: */
+
+
+#statusbar-ghostify 
+{
+	list-style-image: url("chrome://ghostfox/content/cmdGhost.png");
+	margin-left: 1px;
+}
+
+/* :::: ghostfox button hover :::: */
+#statusbar-ghostify:hover 
+{
+	list-style-image: url("chrome://ghostfox/content/cmdGhost.png");
+}
+
+
+/* :::: ghostfox button down :::: */
+
+#statusbar-ghostify:active 
+{
+	list-style-image: url("chrome://ghostfox/content/cmdGhost.png");
+}
+
+#statusbar-buster 
+{
+	list-style-image: url("chrome://ghostfox/content/cmdBust.png");
+	margin-left: 1px;
+}
+
+/* :::: ghostfox button hover :::: */
+#statusbar-buster:hover 
+{
+	list-style-image: url("chrome://ghostfox/content/cmdBust.png");
+}
+
+
+/* :::: ghostfox button down :::: */
+
+#statusbar-buster:active 
+{
+	list-style-image: url("chrome://ghostfox/content/cmdBust.png");
+}
